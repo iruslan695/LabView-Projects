@@ -1,0 +1,4 @@
+City		Conditions      Wind Speed  	Temperature	Pressure	Humidity
+Moscow		broken clouds	3.53	        16.43	        1020	        32
+london		clear sky	1.79	        24.36	        1015	        37
+Bryansk		clear sky	5.57	        15.31	        1019	        44
